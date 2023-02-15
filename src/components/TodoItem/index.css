@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.button {
+  color: #ff0b37;
+  border-radius: 3px;
+  border-color: #ff0b37;
+  cursor: pointer;
+}
